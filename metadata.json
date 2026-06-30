@@ -1,0 +1,8 @@
+{
+  "name": "Malaysian Lifestyle",
+  "description": "A website introducing the daily lifestyle in Malaysia across various categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
